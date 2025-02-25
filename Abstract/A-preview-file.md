@@ -2,6 +2,7 @@
 ![GitHub Image](/Abstract/FluidsInSpace4k2.png)
 ![GitHub Image](/Abstract/FluidsInSpace4k3Composite.png)
 ![GitHub Image](/Abstract/FluidsInSpace4k5Composite.png)
+![GitHub Image](/Abstract/GrayShapes.png)
 ![GitHub Image](/Abstract/GreenGlassSheets.png)
 ![GitHub Image](/Abstract/OrangeGlassSheets.png)
 ![GitHub Image](/Abstract/PurpleGlassSheets.png)
