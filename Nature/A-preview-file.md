@@ -1,3 +1,4 @@
+# Images in this folder are actual photographs
 ![AppleFlowers](./AppleFlowers.png)
 ![AppleFlowers2](./AppleFlowers2.png)
 ![AppleFlowersSky](./AppleFlowersSky2.png)
