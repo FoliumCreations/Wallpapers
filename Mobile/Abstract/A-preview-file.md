@@ -1,5 +1,5 @@
 
-![GitHub Image](/Mobile/Abstractt/GreenGlass.png)
-![GitHub Image](/Mobile/Abstractt/OrangeGlass.png)
-![GitHub Image](/Mobile/Abstractt/PurpleGlass.png)
-![GitHub Image](/Mobile/Abstractt/BlueGlass.png)
+![GitHub Image](./GreenGlass.png)
+![GitHub Image](./OrangeGlass.png)
+![GitHub Image](./PurpleGlass.png)
+![GitHub Image](./BlueGlass.png)
