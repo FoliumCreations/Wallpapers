@@ -5,6 +5,8 @@
 ![BedOfLeaves](./BedOfLeaves.png)
 ![DontKnowTheName](./DontKnowTheName.png)
 ![ForestClearing](./ForestClearing.png)
+![Forestferns](./Forestferns.png)
+![ForestPath](./ForestPath.png)
 ![Forgetmenot](./Forgetmenot.png)
 ![Syren](./Syren.png)
 ![Syren2](./Syren2.png)
