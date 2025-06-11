@@ -2,6 +2,7 @@
 ![AppleFlowers](./AppleFlowers.png)
 ![AppleFlowers2](./AppleFlowers2.png)
 ![AppleFlowersSky](./AppleFlowersSky2.png)
+![BedOfLeaves](./BedOfLeaves.png)
 ![DontKnowTheName](./DontKnowTheName.png)
 ![Forgetmenot](./Forgetmenot.png)
 ![Syren](./Syren.png)
