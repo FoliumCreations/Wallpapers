@@ -1,2 +1,7 @@
 ![ForestNight](./ForestNight.png)
 ![ForestDay](./ForestDay.png)
+![BedOfLeaves](./BedOfLeaves.png)
+![Fern](./Fern.png)
+![ForestClearing](./ForestClearing.png)
+![ForestFerns](./ForestFerns.png)
+![ForestPath](./ForestPath.png)
