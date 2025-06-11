@@ -4,6 +4,7 @@
 ![AppleFlowersSky](./AppleFlowersSky2.png)
 ![BedOfLeaves](./BedOfLeaves.png)
 ![DontKnowTheName](./DontKnowTheName.png)
+![ForestClearing](./ForestClearing.png)
 ![Forgetmenot](./Forgetmenot.png)
 ![Syren](./Syren.png)
 ![Syren2](./Syren2.png)
